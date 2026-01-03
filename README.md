@@ -2,7 +2,6 @@
 
 Dayflow is a modern, premium Human Resource Management System built with React and Tailwind CSS. It streamlines HR operations including employee management, attendance tracking, leave management, and payroll visibility with a sleek, dark-themed interface.
 
-![Dayflow Dashboard](https://via.placeholder.com/800x400?text=Dayflow+Dashboard+Preview)
 
 ## 🚀 Features
 
